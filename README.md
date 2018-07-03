@@ -1,0 +1,2 @@
+# pristinepharma-cf2c5
+Pristine Pharma (India) Private Limited is a new venture in the field of pharmaceuticals. Our aim is to provide Quality Healthcare to all.  We have partnered with a quality research organization, Auroville Healthcare R&amp;D Private Limited, to provide research based quality medicines at affordable cost.  Our research based medicines are produced in WHO-GMP certified plant to assure the highest standard. We offer our range of products in the segments of Paediatrics, Obstetrics &amp; Gynaecology and Primary Care.

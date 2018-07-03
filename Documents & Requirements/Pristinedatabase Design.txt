@@ -1,0 +1,35 @@
+Category Table
+prod_categoryTitle: 
+prod_categoryId: PrimaryKey
+user_Type:
+
+Brand Table:
+prod_categoryId: Forein Key
+product_brandName:
+product_brandId: PrimaryKey
+user_Type:
+
+Products Table:
+
+prod_categoryId: ForignKey
+product_brandId: ForignKey
+product_id: Primary Key
+product_title:
+product_description:
+product_image:
+product_price:
+product_brandName:
+product_offers:
+user_Type:
+
+User Table:
+user_id: primaryKey
+password:
+user_email:
+user_details:
+user_Type:
+
+
+
+ 
+
